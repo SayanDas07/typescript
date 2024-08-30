@@ -1,4 +1,5 @@
 "use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
 //impliment means to use the interface
 class Instagram {
     constructor(cameraMode, filter, burst) {
