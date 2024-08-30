@@ -1,0 +1,14 @@
+{
+  "name": "tsprojectsetup",
+  "version": "1.0.0",
+  "description": "A set Up tutorial of Ts for Projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "Sayan",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
